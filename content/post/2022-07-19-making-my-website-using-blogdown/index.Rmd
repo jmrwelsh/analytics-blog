@@ -1,0 +1,15 @@
+---
+title: Making my website using blogdown
+author: Joseph Welsh
+date: '2022-07-19'
+slug: making-my-website-using-blogdown
+categories:
+  - R
+tags: []
+---
+
+
+```{r}
+mtcars %>% knitr::kable()
+```
+
