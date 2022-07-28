@@ -1,6 +1,8 @@
 ---
 date: "2016-05-05T21:48:51-07:00"
-title: About
+title: About Us
 ---
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium).
+We grew up in the 757. We love it's people and we want to help create insights into what makes Virginians in Hampton Roads tick, what challenges they are faced with, and what support they require.  
+  
+Data reveals a story. We want to share that story with the people of Virginia using the tricks of the data analytics trade. 

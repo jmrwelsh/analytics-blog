@@ -1,0 +1,21 @@
+---
+title: Post number 2
+author: Joseph Welsh
+date: '2022-07-24'
+slug: post-number-2
+categories:
+  - R
+tags:
+  - regression
+---
+
+# heading
+
+  This is a post about nothing. It just spits out the Titanic dataset that is preloaded into R.
+
+```{r}
+
+Titanic
+
+```
+
